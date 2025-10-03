@@ -18,3 +18,13 @@ The WeatherApp.java program is a simple Java application designed to fetch and d
 
 *OUTPUT* :
 
+<img width="252" height="110" alt="Image" src="https://github.com/user-attachments/assets/4e33cf61-09e8-42fd-9833-da1c1989f416" />
+
+<img width="267" height="111" alt="Image" src="https://github.com/user-attachments/assets/976c1f37-96fc-4177-adac-65465d591084" />
+
+<img width="224" height="116" alt="Image" src="https://github.com/user-attachments/assets/10726086-a291-4ff4-9fe9-3f8bdbc2ece7" />
+
+<img width="259" height="111" alt="Image" src="https://github.com/user-attachments/assets/1c0553e7-6e02-41e0-9011-cec5f131a47e" />
+
+<img width="259" height="117" alt="Image" src="https://github.com/user-attachments/assets/4003c7ee-a25d-4f69-b628-72d70ba7e404" />
+
